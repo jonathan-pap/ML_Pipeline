@@ -78,9 +78,9 @@ In this session Thom Ives will explain how to build python virtual environment .
 
 Ghaith Sankari will show one example about integrating Python project with .net core web api project using vitual studio.
 
-[![Toolkit](https://github.com/jonathan-pap/ML_Pipeline/blob/main/images/video.png)](https://www.youtube.com/watch?v=2dLjHUJ3lZE)
-[![Toolkit](https://github.com/jonathan-pap/ML_Pipeline/blob/main/images/video.png)](https://www.youtube.com/watch?v=IZOVSFwIpGo)
-[![Toolkit](https://github.com/jonathan-pap/ML_Pipeline/blob/main/images/video.png)](https://www.youtube.com/watch?v=BM3e0p0Iv7w)
+[VS Video 1](https://www.youtube.com/watch?v=2dLjHUJ3lZE)
+[VS Video 2](https://www.youtube.com/watch?v=IZOVSFwIpGo)
+[VS Video 2](https://www.youtube.com/watch?v=BM3e0p0Iv7w)
 
 
 ---
@@ -89,7 +89,7 @@ Ghaith Sankari will show one example about integrating Python project with .net 
 ### Session 5.1: Health Informatics Intro
 First look at our Dataset for the project.
 
-[![DataSet](https://github.com/jonathan-pap/ML_Pipeline/blob/main/images/video.png)](https://www.youtube.com/watch?v=iGMOMQOc2KI?t=2183)
+[DataSet Video](https://www.youtube.com/watch?v=iGMOMQOc2KI?t=2183)
 
 ---
 
@@ -109,6 +109,6 @@ what will form from that distribution?
 [ML Data and Concept Drift](https://towardsdatascience.com/machine-learning-in-production-why-you-should-care-about-data-and-concept-drift-d96d0bc907fb)
 
 
-[![Data Issues](https://github.com/jonathan-pap/ML_Pipeline/blob/main/images/video.png)](https://www.youtube.com/watch?v=FBivOf73kvw?t=67)
+[Data Issues Video](https://www.youtube.com/watch?v=FBivOf73kvw?t=67)
 
-[link](https://www.youtube.com/watch?v=FBivOf73kvw?t=67)
+
