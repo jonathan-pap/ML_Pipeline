@@ -58,7 +58,7 @@ Intro to ML modelling
 ### Session 5.1: Health Informatics Intro
 
 
-[![Toolkit](https://github.com/jonathan-pap/jonathan-pap.github.io/blob/main/images/pipeline.JPG)](https://www.youtube.com/watch?v=iGMOMQOc2KI?t=2183)
+[![Toolkit](https://youtu.be/iGMOMQOc2KI?t=2183)](https://youtu.be/iGMOMQOc2KI?t=2183)
 
 ### Session 6
 
