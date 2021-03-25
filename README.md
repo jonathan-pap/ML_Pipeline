@@ -1,4 +1,4 @@
-# Automated ML pipeline
+# Automated Machine Learning pipeline 
 
 ### Session 1 - From Modelling to Production
 Intro to ML modelling
@@ -22,6 +22,8 @@ Intro to ML modelling
 
 
 [![From Modelling to Production](https://github.com/jonathan-pap/ML_Pipeline/blob/main/images/video.png)](https://www.youtube.com/watch?v=qFJNkuBRytY)
+
+[](https://github.com/jonathan-pap/ML_Pipeline/blob/main/images/lesson1.JPG) |[]https://github.com/jonathan-pap/ML_Pipeline/blob/main/images/lesson2.JPG https://github.com/jonathan-pap/ML_Pipeline/blob/main/images/lesson3.JPG
 
 ### Session 2 - Software Engineering for ML
 
