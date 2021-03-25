@@ -57,24 +57,10 @@ In this session Thom Ives will explain how to build python virtual environment .
 
 Ghaith Sankari will show one example about integrating Python project with .net core web api project using vitual studio.
 
-<table>
-<thead>
-  <tr>
-    <th>Video 1</th>
-    <th>Video 2</th>
-    <th>Video 3 </th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>[![Toolkit](https://github.com/jonathan-pap/ML_Pipeline/blob/main/images/video.png)](https://www.youtube.com/watch?v=2dLjHUJ3lZE)</td>
-    <td>[![Toolkit](https://github.com/jonathan-pap/ML_Pipeline/blob/main/images/video.png)](https://www.youtube.com/watch?v=IZOVSFwIpGo)</td>
-    <td>[![Toolkit](https://github.com/jonathan-pap/ML_Pipeline/blob/main/images/video.png)](https://www.youtube.com/watch?v=BM3e0p0Iv7w)
-</td>
-  </tr>
-</tbody>
-</table>
- | 
+[![Toolkit](https://github.com/jonathan-pap/ML_Pipeline/blob/main/images/video.png)](https://www.youtube.com/watch?v=2dLjHUJ3lZE) |
+[![Toolkit](https://github.com/jonathan-pap/ML_Pipeline/blob/main/images/video.png)](https://www.youtube.com/watch?v=IZOVSFwIpGo)
+[![Toolkit](https://github.com/jonathan-pap/ML_Pipeline/blob/main/images/video.png)](https://www.youtube.com/watch?v=BM3e0p0Iv7w)
+
 
 
 ### Session 5.1: Health Informatics Intro
