@@ -29,4 +29,26 @@ Intro to ML modelling
   - Software Development Life Cycle
 -  Data Science Life Cycle
 
-[![From Modelling to Production](https://img.youtube.com/vi/RUyqRHupMc/0.jpg)](https://www.youtube.com/watch?v=RUyqRHupMc)
+[![Software Engineering for ML](https://img.youtube.com/vi/ARUyqRHupMc/0.jpg)](https://www.youtube.com/watch?v=ARUyqRHupMc)
+
+
+### Session 3 - Toolkit
+
+- Git
+- VS Code
+- VS Studio
+- Google Colab
+
+[![Software Engineering for ML](https://img.youtube.com/vi/qOHHVdSA8qk/0.jpg)](https://www.youtube.com/watch?v=qOHHVdSA8qk)
+
+
+
+
+
+
+
+
+
+[![Software Engineering for ML](https://img.youtube.com/vi/qOHHVdSA8qk/0.jpg)](https://www.youtube.com/watch?v=qOHHVdSA8qk)
+
+https://youtu.be/qOHHVdSA8qk
