@@ -1,4 +1,4 @@
-# Automated Machine Learning pipeline 
+# Automated Machine Learning Pipeline Class
 
 - [Session 1 - From Modelling to Production](#session1)
 - [Session 2 - Software Engineering for ML](#session2)
