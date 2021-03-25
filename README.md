@@ -1,12 +1,12 @@
 # Automated Machine Learning pipeline 
 
--[Session 1 - From Modelling to Production](#session1)
--[Session 2 - Software Engineering for ML](#session2)
--[Session 3 - Toolkit: Git](#session3)
--[Session 4 - Toolkit: Colab & Python](#session4)
--[Session 5 Toolkit: Python Environments & Visual Studio](#session5)
--[Session 5.1: Health Informatics Intro](#session5.1)
--[Session 6: Data Set, Data Sample, Data Issues](#session6)
+- [Session 1 - From Modelling to Production](#session1)
+- [Session 2 - Software Engineering for ML](#session2)
+- [Session 3 - Toolkit: Git](#session3)
+- [Session 4 - Toolkit: Colab & Python](#session4)
+- [Session 5 Toolkit: Python Environments & Visual Studio](#session5)
+- [Session 5.1: Health Informatics Intro](#session5.1)
+- [Session 6: Data Set, Data Sample, Data Issues](#session6)
 
 <a id=session1></a>
 ### Session 1 - From Modelling to Production
