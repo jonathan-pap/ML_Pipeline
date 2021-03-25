@@ -41,7 +41,7 @@ Intro to ML modelling
   - Software Development Life Cycle
 -  Data Science Life Cycle
 
-:arrow_right: [**Software Engineering for ML**](https://www.youtube.com/watch?v=ARUyqRHupMc)
+:diamond_shape_with_a_dot_inside: [**Software Engineering for ML**](https://www.youtube.com/watch?v=ARUyqRHupMc)
 
 ---
 
@@ -51,7 +51,7 @@ Intro to ML modelling
 - Github
 - Gitbash
 
-:arrow_right: [**Toolkit Git Video**](https://www.youtube.com/watch?v=IcTj5sek30g)
+:diamond_shape_with_a_dot_inside: [**Toolkit Git Video**](https://www.youtube.com/watch?v=IcTj5sek30g)
 
 ---
 
@@ -61,7 +61,7 @@ Intro to ML modelling
 - Google Colab
 - Install Python
 
-:arrow_right: [**Toolkit: Colab & Python Video**](https://www.youtube.com/watch?v=qOHHVdSA8qk)
+:diamond_shape_with_a_dot_inside: [**Toolkit: Colab & Python Video**](https://www.youtube.com/watch?v=qOHHVdSA8qk)
 
 ---
 
@@ -74,7 +74,7 @@ In this session Thom Ives will explain how to build python virtual environment .
 - System Variables
 - Health Informatics Intro *(starts 36:14)*
 
-:arrow_right: [**Toolkit: Python Environments & Health Informatics Intro (starts 36:14) Video**](https://www.youtube.com/watch?v=qOHHVdSA8qk)
+:diamond_shape_with_a_dot_inside: [**Toolkit: Python Environments & Health Informatics Intro (starts 36:14) Video**](https://www.youtube.com/watch?v=qOHHVdSA8qk)
 
 Ghaith Sankari will show one example about integrating Python project with .net core web api project using vitual studio.
 
@@ -98,6 +98,6 @@ what will form from that distribution?
 **Resource**: [ML Data and Concept Drift](https://towardsdatascience.com/machine-learning-in-production-why-you-should-care-about-data-and-concept-drift-d96d0bc907fb)
 
 
-:arrow_right: [**Data Issues Video**](https://www.youtube.com/watch?v=FBivOf73kvw?t=67)
+:diamond_shape_with_a_dot_inside: [**Data Issues Video**](https://www.youtube.com/watch?v=FBivOf73kvw?t=67)
 
 
