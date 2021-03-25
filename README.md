@@ -29,7 +29,7 @@ Intro to ML modelling
   - Software Development Life Cycle
 -  Data Science Life Cycle
 
-[![Software Engineering for ML](https://img.youtube.com/vi/ARUyqRHupMc/0.jpg)](https://www.youtube.com/watch?v=ARUyqRHupMc)
+[![Software Engineering for ML](https://github.com/jonathan-pap/jonathan-pap.github.io/blob/main/images/pipeline.JPG)](https://www.youtube.com/watch?v=ARUyqRHupMc)
 
 
 ### Session 3 - Toolkit: Git
@@ -37,7 +37,7 @@ Intro to ML modelling
 - Github
 - Gitbash
 
-[![Toolkit](https://img.youtube.com/vi/IcTj5sek30g/0.jpg)](https://www.youtube.com/watch?v=IcTj5sek30g)
+[![Toolkit](https://github.com/jonathan-pap/jonathan-pap.github.io/blob/main/images/pipeline.JPG)](https://www.youtube.com/watch?v=IcTj5sek30g)
 
 ### Session 4 - Toolkit: Colab & Python
 
@@ -45,7 +45,7 @@ Intro to ML modelling
 - Install Python
 
 
-[![Toolkit](https://img.youtube.com/vi/qOHHVdSA8qk/0.jpg)](https://www.youtube.com/watch?v=qOHHVdSA8qk)
+[![Toolkit](https://github.com/jonathan-pap/jonathan-pap.github.io/blob/main/images/pipeline.JPG)](https://www.youtube.com/watch?v=qOHHVdSA8qk)
 
 ### Session 5 Toolkit: Python Environments
 
@@ -53,17 +53,17 @@ Intro to ML modelling
 - Virtual environment wrapper
 - System Variables
 - 
-[![Toolkit](https://img.youtube.com/vi/qOHHVdSA8qk/0.jpg)](https://www.youtube.com/watch?v=qOHHVdSA8qk)
+[![Toolkit](https://github.com/jonathan-pap/jonathan-pap.github.io/blob/main/images/pipeline.JPG)](https://www.youtube.com/watch?v=qOHHVdSA8qk)
 
 ### Session 5.1: Health Informatics Intro
 
 
-[![Toolkit](https://img.youtube.com/vi/iGMOMQOc2KI?t=2183/0.jpg)](https://www.youtube.com/watch?v=iGMOMQOc2KI?t=2183)
+[![Toolkit](https://github.com/jonathan-pap/jonathan-pap.github.io/blob/main/images/pipeline.JPG)](https://www.youtube.com/watch?v=iGMOMQOc2KI?t=2183)
 
 ### Session 6
 
 
-[![Toolkit](https://img.youtube.com/vi/FBivOf73kvw?t=74/0.jpg)](https://www.youtube.com/watch?v=FBivOf73kvw?t=74)
+[![Toolkit](https://github.com/jonathan-pap/jonathan-pap.github.io/blob/main/images/pipeline.JPG)](https://www.youtube.com/watch?v=FBivOf73kvw?t=74)
 
 
 
