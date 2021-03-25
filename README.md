@@ -96,4 +96,4 @@ what will form from that distribution?
 
 [![Data Issues](https://github.com/jonathan-pap/ML_Pipeline/blob/main/images/video.png)](https://www.youtube.com/watch?v=FBivOf73kvw?t=67)
 
-
+[link](https://www.youtube.com/watch?v=FBivOf73kvw?t=67)
