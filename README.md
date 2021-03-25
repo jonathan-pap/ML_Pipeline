@@ -30,7 +30,7 @@ Intro to ML modelling
   - Building Machine Learning Pipelines by Hannes Hapke, Catherine Nelson
 
 
-[From Modelling to Production Video](https://www.youtube.com/watch?v=qFJNkuBRytY)
+[**From Modelling to Production Video**](https://www.youtube.com/watch?v=qFJNkuBRytY)
 
 ---
 
@@ -41,7 +41,7 @@ Intro to ML modelling
   - Software Development Life Cycle
 -  Data Science Life Cycle
 
-[Software Engineering for ML](https://www.youtube.com/watch?v=ARUyqRHupMc)
+[**oftware Engineering for ML**](https://www.youtube.com/watch?v=ARUyqRHupMc)
 
 ---
 
@@ -51,7 +51,7 @@ Intro to ML modelling
 - Github
 - Gitbash
 
-[Toolkit Git Video](https://www.youtube.com/watch?v=IcTj5sek30g)
+[**Toolkit Git Video**](https://www.youtube.com/watch?v=IcTj5sek30g)
 
 ---
 
@@ -61,7 +61,7 @@ Intro to ML modelling
 - Google Colab
 - Install Python
 
-[Toolkit: Colab & Python Video](https://www.youtube.com/watch?v=qOHHVdSA8qk)
+[**Toolkit: Colab & Python Video**](https://www.youtube.com/watch?v=qOHHVdSA8qk)
 
 ---
 
@@ -74,11 +74,11 @@ In this session Thom Ives will explain how to build python virtual environment .
 - System Variables
 - Health Informatics Intro *(starts 36:14)*
 
-[Toolkit: Python Environments & Health Informatics Intro(starts 36:14) Video](https://www.youtube.com/watch?v=qOHHVdSA8qk)
+[**Toolkit: Python Environments & Health Informatics Intro (starts 36:14) Video**](https://www.youtube.com/watch?v=qOHHVdSA8qk)
 
 Ghaith Sankari will show one example about integrating Python project with .net core web api project using vitual studio.
 
-[VS Video 1](https://www.youtube.com/watch?v=2dLjHUJ3lZE) | [VS Video 2](https://www.youtube.com/watch?v=IZOVSFwIpGo) | [VS Video 2](https://www.youtube.com/watch?v=BM3e0p0Iv7w)
+**[VS Video 1](https://www.youtube.com/watch?v=2dLjHUJ3lZE) | [VS Video 2](https://www.youtube.com/watch?v=IZOVSFwIpGo) | [VS Video 2](https://www.youtube.com/watch?v=BM3e0p0Iv7w)
 
 ---
 
