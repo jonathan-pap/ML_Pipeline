@@ -24,7 +24,7 @@ Intro to ML modelling
 [![From Modelling to Production](https://github.com/jonathan-pap/ML_Pipeline/blob/main/images/video.png)](https://www.youtube.com/watch?v=qFJNkuBRytY)
 
 ![](https://github.com/jonathan-pap/ML_Pipeline/blob/main/images/lesson1.JPG=40x40)
-<img src=https://github.com/jonathan-pap/ML_Pipeline/blob/main/images/lesson1.JPG width="40" height="40">
+<img src=https://github.com/jonathan-pap/ML_Pipeline/blob/main/images/lesson1.JPG width="40" height="100">
 
 ### Session 2 - Software Engineering for ML
 
