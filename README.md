@@ -1,8 +1,3 @@
-<html><body>
-  <iframe width="420" height="315"
-src="https://www.youtube.com/embed/tgbNymZ7vqY">
-  </iframe></body>
-</html>
 # Automated Machine Learning pipeline 
 
 ### Session 1 - From Modelling to Production
