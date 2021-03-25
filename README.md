@@ -82,6 +82,7 @@ Ghaith Sankari will show one example about integrating Python project with .net 
 [![Toolkit](https://github.com/jonathan-pap/ML_Pipeline/blob/main/images/video.png)](https://www.youtube.com/watch?v=IZOVSFwIpGo)
 [![Toolkit](https://github.com/jonathan-pap/ML_Pipeline/blob/main/images/video.png)](https://www.youtube.com/watch?v=BM3e0p0Iv7w)
 
+
 ---
 
 <a id=session5.1></a>
