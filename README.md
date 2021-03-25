@@ -1,6 +1,6 @@
 # Automated Machine Learning pipeline 
 
--[### Session 4 - Toolkit: Colab & Python](#session4)
+-[Session 4 - Toolkit: Colab & Python](#session4)
 
 ### Session 1 - From Modelling to Production
 Intro to ML modelling
