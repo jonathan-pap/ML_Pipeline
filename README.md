@@ -1,7 +1,14 @@
 # Automated Machine Learning pipeline 
 
+-[Session 1 - From Modelling to Production](#session1)
+-[Session 2 - Software Engineering for ML](#session2)
+-[Session 3 - Toolkit: Git](#session3)
 -[Session 4 - Toolkit: Colab & Python](#session4)
+-[Session 5 Toolkit: Python Environments & Visual Studio](#session5)
+-[Session 5.1: Health Informatics Intro](#session5.1)
+-[Session 6: Data Set, Data Sample, Data Issues](#session6)
 
+<a id=session1></a>
 ### Session 1 - From Modelling to Production
 Intro to ML modelling
 
@@ -24,7 +31,7 @@ Intro to ML modelling
 
 [![From Modelling to Production](https://github.com/jonathan-pap/ML_Pipeline/blob/main/images/video.png)](https://www.youtube.com/watch?v=qFJNkuBRytY)
 
-
+<a id=session2></a>
 ### Session 2 - Software Engineering for ML
 
 - Application Life Cycle
@@ -33,7 +40,7 @@ Intro to ML modelling
 
 [![Software Engineering for ML](https://github.com/jonathan-pap/ML_Pipeline/blob/main/images/video.png)](https://www.youtube.com/watch?v=ARUyqRHupMc)
 
-
+<a id=session3></a>
 ### Session 3 - Toolkit: Git
 
 - Github
@@ -48,6 +55,7 @@ Intro to ML modelling
 
 [![Toolkit](https://github.com/jonathan-pap/ML_Pipeline/blob/main/images/video.png)](https://www.youtube.com/watch?v=qOHHVdSA8qk)
 
+<a id=session5></a>
 ### Session 5 Toolkit: Python Environments
 In this session Thom Ives will explain how to build python virtual environment ... 
 
@@ -64,12 +72,13 @@ Ghaith Sankari will show one example about integrating Python project with .net 
 [![Toolkit](https://github.com/jonathan-pap/ML_Pipeline/blob/main/images/video.png)](https://www.youtube.com/watch?v=BM3e0p0Iv7w)
 
 
-
+<a id=session5.1></a>
 ### Session 5.1: Health Informatics Intro
 First look at our Dataset for the project.
 
 [![DataSet](https://github.com/jonathan-pap/ML_Pipeline/blob/main/images/video.png)](https://www.youtube.com/watch?v=iGMOMQOc2KI?t=2183)
 
+<a id=session6></a>
 ### Session 6: Data Set, Data Sample, Data Issues
 What is the importance of Data in ML process, what is the sampling and why issues might appears and what is the most important issues
 
