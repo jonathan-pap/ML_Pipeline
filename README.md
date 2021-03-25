@@ -9,7 +9,6 @@ Intro to ML modelling
 -  ML pipeline
 -  Production of ML - ML development
 -  Production of ML - tasks for apply
--  ML Pipeline
 -  ML Pipeline - Target
 -  Directed Acyclic Graph
 -  ML Pipeline - Production ML Infrastructure
@@ -22,7 +21,7 @@ Intro to ML modelling
 
 
 [![From Modelling to Production](https://github.com/jonathan-pap/ML_Pipeline/blob/main/images/video.png)](https://www.youtube.com/watch?v=qFJNkuBRytY)
-<img src=https://github.com/jonathan-pap/ML_Pipeline/blob/main/images/lesson1.JPG width="200" height="100">
+
 
 ### Session 2 - Software Engineering for ML
 
