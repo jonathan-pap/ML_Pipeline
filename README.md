@@ -59,7 +59,7 @@ Intro to ML modelling
 
 
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/iGMOMQOc2KI?t/0.jpg)](https://www.youtube.com/watch?v=iGMOMQOc2KI?t=2183)
+[![DataSet](https://img.youtube.com/vi/iGMOMQOc2KI?t/0.jpg)](https://www.youtube.com/watch?v=iGMOMQOc2KI?t=2183)
 
 ### Session 6
 
