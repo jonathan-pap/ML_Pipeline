@@ -21,7 +21,7 @@ Intro to ML modelling
   - Building Machine Learning Pipelines by Hannes Hapke, Catherine Nelson
 
 
-[![From Modelling to Production](https://img.youtube.com/vi/qFJNkuBRytY/0.jpg)](https://www.youtube.com/watch?v=qFJNkuBRytY)
+[![From Modelling to Production](https://github.com/jonathan-pap/jonathan-pap.github.io/blob/main/images/pipeline.JPG)](https://www.youtube.com/watch?v=qFJNkuBRytY)
 
 ### Session 2 - Software Engineering for ML
 
