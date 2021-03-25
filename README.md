@@ -8,19 +8,21 @@
 - [Session 5.1: Health Informatics Intro](#session5.1)
 - [Session 6: Data Set, Data Sample, Data Issues](#session6)
 
+---
+
 <a id=session1></a>
 ### Session 1 - From Modelling to Production
 Intro to ML modelling
 
--  DS Modelling
--  DS Life Cycle
--  DS principles
--  ML pipeline
--  Production of ML - ML development
--  Production of ML - tasks for apply
--  ML Pipeline - Target
--  Directed Acyclic Graph
--  ML Pipeline - Production ML Infrastructure
+- DS Modelling
+- DS Life Cycle
+- DS principles
+- ML pipeline
+- Production of ML - ML development
+- Production of ML - tasks for apply
+- ML Pipeline - Target
+- Directed Acyclic Graph
+- ML Pipeline - Production ML Infrastructure
 - Orchestration References:
 
   - Executive Data Science: A Guide to Training and Managing the Best Data Scientists (Brian Caffo, Jeff Leek, Roger Peng)
@@ -47,6 +49,7 @@ Intro to ML modelling
 - Gitbash
 
 [![Toolkit](https://github.com/jonathan-pap/ML_Pipeline/blob/main/images/video.png)](https://www.youtube.com/watch?v=IcTj5sek30g)
+
 <a id=session4></a>
 ### Session 4 - Toolkit: Colab & Python
 
