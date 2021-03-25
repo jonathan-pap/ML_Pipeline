@@ -44,10 +44,10 @@ Intro to ML modelling
 - Google Colab
 - Install Python
 
-
 [![Toolkit](https://github.com/jonathan-pap/ML_Pipeline/blob/main/images/video.png)](https://www.youtube.com/watch?v=qOHHVdSA8qk)
 
 ### Session 5 Toolkit: Python Environments
+In this session Thom Ives will explain how to build python virtual environment ... 
 
 - Python 3.x
 - Virtual environment wrapper
@@ -55,16 +55,27 @@ Intro to ML modelling
 - 
 [![Toolkit](https://github.com/jonathan-pap/ML_Pipeline/blob/main/images/video.png)](https://www.youtube.com/watch?v=qOHHVdSA8qk)
 
+Ghaith Sankari will show one example about integrating Python project with .net core web api project using vitual studio
+[![Toolkit](https://github.com/jonathan-pap/ML_Pipeline/blob/main/images/video.png)](https://www.youtube.com/watch?v=2dLjHUJ3lZE) | [![Toolkit](https://github.com/jonathan-pap/ML_Pipeline/blob/main/images/video.png)](https://www.youtube.com/watch?v=IZOVSFwIpGo)
+[![Toolkit](https://github.com/jonathan-pap/ML_Pipeline/blob/main/images/video.png)](https://www.youtube.com/watch?v=BM3e0p0Iv7w)
+
+
 ### Session 5.1: Health Informatics Intro
 
+[![DataSet](https://github.com/jonathan-pap/ML_Pipeline/blob/main/images/video.png)](https://www.youtube.com/watch?v=iGMOMQOc2KI?t=2183)
+
+### Session 6: Data Set, Data Sample, Data Issues
+What is the importance of Data in ML process, what is the sampling and why issues might appears and what is the most important issues
+
+- Feature Space
+- Data Samples
+- Data Issues
+- Data Drift
+- Concept Drift
+
+Assignment:
+
+[![Data Issues](https://github.com/jonathan-pap/ML_Pipeline/blob/main/images/video.png)](https://www.youtube.com/watch?v=FBivOf73kvw?t=67)
 
 
-[![DataSet](https://img.youtube.com/vi/iGMOMQOc2KI/0.jpg)](https://www.youtube.com/watch?v=iGMOMQOc2KI?t=2183)
-
-### Session 6
-
-
-[![Toolkit](https://github.com/jonathan-pap/ML_Pipeline/blob/main/images/video.png)](https://www.youtube.com/watch?v=FBivOf73kvw?t=74)
-
-
-
+https://youtu.be/BM3e0p0Iv7w
