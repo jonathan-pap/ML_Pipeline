@@ -41,7 +41,7 @@ Intro to ML modelling
   - Software Development Life Cycle
 -  Data Science Life Cycle
 
-:diamond_shape_with_a_dot_inside: [**Software Engineering for ML**](https://www.youtube.com/watch?v=ARUyqRHupMc)
+:diamond_shape_with_a_dot_inside: [**Software Engineering for ML Video**](https://www.youtube.com/watch?v=ARUyqRHupMc)
 
 ---
 
