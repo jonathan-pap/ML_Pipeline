@@ -30,7 +30,7 @@ Intro to ML modelling
   - Building Machine Learning Pipelines by Hannes Hapke, Catherine Nelson
 
 
-:arrow_right: [**From Modelling to Production Video**](https://www.youtube.com/watch?v=qFJNkuBRytY)
+:diamond_shape_with_a_dot_inside: [**From Modelling to Production Video**](https://www.youtube.com/watch?v=qFJNkuBRytY)
 
 ---
 
@@ -41,7 +41,7 @@ Intro to ML modelling
   - Software Development Life Cycle
 -  Data Science Life Cycle
 
-:arrow_right: [**oftware Engineering for ML**](https://www.youtube.com/watch?v=ARUyqRHupMc)
+:arrow_right: [**Software Engineering for ML**](https://www.youtube.com/watch?v=ARUyqRHupMc)
 
 ---
 
