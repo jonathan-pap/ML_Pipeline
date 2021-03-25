@@ -1,5 +1,7 @@
 # Automated Machine Learning pipeline 
 
+-[### Session 4 - Toolkit: Colab & Python](#session4)
+
 ### Session 1 - From Modelling to Production
 Intro to ML modelling
 
@@ -38,7 +40,7 @@ Intro to ML modelling
 - Gitbash
 
 [![Toolkit](https://github.com/jonathan-pap/ML_Pipeline/blob/main/images/video.png)](https://www.youtube.com/watch?v=IcTj5sek30g)
-
+<a id=session4></a>
 ### Session 4 - Toolkit: Colab & Python
 
 - Google Colab
