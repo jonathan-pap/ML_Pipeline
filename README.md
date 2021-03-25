@@ -58,7 +58,8 @@ Intro to ML modelling
 ### Session 5.1: Health Informatics Intro
 
 
-[![Toolkit](https://img.youtube.com/vi/iGMOMQOc2KI?t=2183/0.jpg)](https://youtu.be/iGMOMQOc2KI?t=2183)
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/iGMOMQOc2KI?t=2183/0.jpg)](https://www.youtube.com/watch?v=iGMOMQOc2KI?t=2183)
 
 ### Session 6
 
