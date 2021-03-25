@@ -73,21 +73,13 @@ In this session Thom Ives will explain how to build python virtual environment .
 - Python 3.x
 - Virtual environment wrapper
 - System Variables
+- Health Informatics Intro (starts 36:14)
 
 [Toolkit: Python Environments Video](https://www.youtube.com/watch?v=qOHHVdSA8qk)
 
 Ghaith Sankari will show one example about integrating Python project with .net core web api project using vitual studio.
 
 [VS Video 1](https://www.youtube.com/watch?v=2dLjHUJ3lZE) | [VS Video 2](https://www.youtube.com/watch?v=IZOVSFwIpGo) | [VS Video 2](https://www.youtube.com/watch?v=BM3e0p0Iv7w)
-
-
----
-
-<a id=session5.1></a>
-### Session 5.1: Health Informatics Intro
-First look at our Dataset for the project.
-
-[![DataSet Video]](https://www.youtube.com/watch?v=iGMOMQOc2KI?t=2183)
 
 ---
 
