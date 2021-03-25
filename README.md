@@ -32,23 +32,38 @@ Intro to ML modelling
 [![Software Engineering for ML](https://img.youtube.com/vi/ARUyqRHupMc/0.jpg)](https://www.youtube.com/watch?v=ARUyqRHupMc)
 
 
-### Session 3 - Toolkit
+### Session 3 - Toolkit: Git
 
-- Git
-- VS Code
-- VS Studio
+- Github
+- Gitbash
+
+[![Toolkit](https://img.youtube.com/vi/IcTj5sek30g/0.jpg)](https://www.youtube.com/watch?v=IcTj5sek30g)
+
+### Session 4 - Toolkit: Colab & Python
+
 - Google Colab
-
-[![Software Engineering for ML](https://img.youtube.com/vi/qOHHVdSA8qk/0.jpg)](https://www.youtube.com/watch?v=qOHHVdSA8qk)
-
+- Install Python
 
 
+[![Toolkit](https://img.youtube.com/vi/qOHHVdSA8qk/0.jpg)](https://www.youtube.com/watch?v=qOHHVdSA8qk)
+
+### Session 5 Toolkit: Python Environments
+
+- Python 3.x
+- Virtual environment wrapper
+- System Variables
+- 
+[![Toolkit](https://img.youtube.com/vi/qOHHVdSA8qk/0.jpg)](https://www.youtube.com/watch?v=qOHHVdSA8qk)
+
+### Session 5.1: Health Informatics Intro
+
+
+[![Toolkit](https://img.youtube.com/vi/iGMOMQOc2KI?t=2183/0.jpg)](https://www.youtube.com/watch?v=iGMOMQOc2KI?t=2183)
+
+### Session 6
+
+
+[![Toolkit](https://img.youtube.com/vi/FBivOf73kvw?t=74/0.jpg)](https://www.youtube.com/watch?v=FBivOf73kvw?t=74)
 
 
 
-
-
-
-[![Software Engineering for ML](https://img.youtube.com/vi/qOHHVdSA8qk/0.jpg)](https://www.youtube.com/watch?v=qOHHVdSA8qk)
-
-https://youtu.be/qOHHVdSA8qk
