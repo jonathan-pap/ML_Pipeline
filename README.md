@@ -31,7 +31,7 @@ Intro to ML modelling
   - Building Machine Learning Pipelines by Hannes Hapke, Catherine Nelson
 
 
-[![From Modelling to Production Video](https://www.youtube.com/watch?v=qFJNkuBRytY)
+[From Modelling to Production Video](https://www.youtube.com/watch?v=qFJNkuBRytY)
 
 ---
 
