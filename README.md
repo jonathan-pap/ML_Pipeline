@@ -78,7 +78,7 @@ In this session Thom Ives will explain how to build python virtual environment .
 
 Ghaith Sankari will show one example about integrating Python project with .net core web api project using vitual studio.
 
-**[VS Video 1](https://www.youtube.com/watch?v=2dLjHUJ3lZE) | [VS Video 2](https://www.youtube.com/watch?v=IZOVSFwIpGo) | [VS Video 2](https://www.youtube.com/watch?v=BM3e0p0Iv7w)
+**[VS Video 1]**(https://www.youtube.com/watch?v=2dLjHUJ3lZE) | **[VS Video 2]**(https://www.youtube.com/watch?v=IZOVSFwIpGo) | **[VS Video 2]**(https://www.youtube.com/watch?v=BM3e0p0Iv7w)
 
 ---
 
