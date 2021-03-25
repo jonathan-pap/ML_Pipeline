@@ -42,7 +42,7 @@ Intro to ML modelling
   - Software Development Life Cycle
 -  Data Science Life Cycle
 
-[![Software Engineering for ML](https://github.com/jonathan-pap/ML_Pipeline/blob/main/images/video.png)](https://www.youtube.com/watch?v=ARUyqRHupMc)
+[Software Engineering for ML](https://www.youtube.com/watch?v=ARUyqRHupMc)
 
 ---
 
@@ -52,7 +52,7 @@ Intro to ML modelling
 - Github
 - Gitbash
 
-[![Toolkit](https://github.com/jonathan-pap/ML_Pipeline/blob/main/images/video.png)](https://www.youtube.com/watch?v=IcTj5sek30g)
+[Toolkit Git Video](https://www.youtube.com/watch?v=IcTj5sek30g)
 
 ---
 
@@ -62,7 +62,7 @@ Intro to ML modelling
 - Google Colab
 - Install Python
 
-[![Toolkit](https://github.com/jonathan-pap/ML_Pipeline/blob/main/images/video.png)](https://www.youtube.com/watch?v=qOHHVdSA8qk)
+[Toolkit: Colab & Python Video](https://www.youtube.com/watch?v=qOHHVdSA8qk)
 
 ---
 
@@ -74,7 +74,7 @@ In this session Thom Ives will explain how to build python virtual environment .
 - Virtual environment wrapper
 - System Variables
 
-[![Toolkit](https://github.com/jonathan-pap/ML_Pipeline/blob/main/images/video.png)](https://www.youtube.com/watch?v=qOHHVdSA8qk)
+[Toolkit: Python Environments Video](https://www.youtube.com/watch?v=qOHHVdSA8qk)
 
 Ghaith Sankari will show one example about integrating Python project with .net core web api project using vitual studio.
 
