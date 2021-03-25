@@ -4,7 +4,7 @@
 - [Session 2 - Software Engineering for ML](#session2)
 - [Session 3 - Toolkit: Git](#session3)
 - [Session 4 - Toolkit: Colab & Python](#session4)
-- [Session 5 - Toolkit: Python Environments & Visual Studio](#session5)
+- [Session 5 - Toolkit: Python Environments & Visual Studio & Health Infomatics](#session5)
 - [Session 6 - Data Set, Data Sample, Data Issues](#session6)
 
 ---
@@ -74,7 +74,7 @@ In this session Thom Ives will explain how to build python virtual environment .
 - System Variables
 - Health Informatics Intro (starts 36:14)
 
-[Toolkit: Python Environments Video](https://www.youtube.com/watch?v=qOHHVdSA8qk)
+[Toolkit: Python Environments & Health Informatics Intro(starts 36:14) Video](https://www.youtube.com/watch?v=qOHHVdSA8qk)
 
 Ghaith Sankari will show one example about integrating Python project with .net core web api project using vitual studio.
 
