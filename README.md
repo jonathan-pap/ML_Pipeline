@@ -95,6 +95,8 @@ What is the importance of Data in ML process, what is the sampling and why issue
 **Assignment**: just explanation based: You take random samples of the same size from a large population and compute the mean of those samples and distribute those samples,
 what will form from that distribution?
 
+[Central Limit Theorem]https://www.statisticshowto.com/probability-and-statistics/normal-distributions/central-limit-theorem-definition-examples/
+
 **Resource**: [ML Data and Concept Drift](https://towardsdatascience.com/machine-learning-in-production-why-you-should-care-about-data-and-concept-drift-d96d0bc907fb)
 
 
