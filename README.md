@@ -109,9 +109,7 @@ what will form from that distribution?
 ### Session 7 - Create Fake Data (is Fun!)
 How to create fake data with Python.
 
-**Assignment**: heteroskedasticity, 
-  - what is heteroskedasticity.
-  - why is it a challenge, illustrate in notebook.
+**Assignment**: what is heteroskedasticity. Why is it a challenge, illustrate in notebook.
   - Send DM to Thom, correct answers can share with group.
 
 `X = [x/10.0 for x in range(100)]`
