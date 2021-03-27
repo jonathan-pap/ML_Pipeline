@@ -112,13 +112,21 @@ How to create fake data with Python.
 **Assignment**: what is heteroskedasticity. Why is it a challenge, illustrate in notebook.
   - Send DM to Thom, correct answers can share with group.
 
-``import matplotlib.pyplot as plt
-
+<code>
+import matplotlib.pyplot as plt
 import random
 
 X = [x/10.0 for x in range(100)]
 
-Y = [2.0 * x + (random.random() - 0.5) * 0 + 5 for x in X]``
+Y = [2.0 * x + (random.random() - 0.5) * 0 + 5 for x in X]
+
+plt.scatter(X, Y)
+plt.title('This Is The Title')
+plt.xlabel('These Are The X Values')
+plt.ylabel('These Are The Y Values')
+plt.show()
+
+</code>
 
 :diamond_shape_with_a_dot_inside: [**Fake Data is Fun Video**](https://youtu.be/wfc4tNt8ZY8?t=137)
 
