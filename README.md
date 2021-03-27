@@ -6,6 +6,7 @@
 - [Session 4 - Toolkit: Colab & Python](#session4)
 - [Session 5 - Toolkit: Python Environments & Visual Studio & Health Infomatics](#session5)
 - [Session 6 - Data Set, Data Sample, Data Issues](#session6)
+- [Session 7 - Create Fake Data (is Fun!)](#session7)
 
 ---
 
@@ -101,5 +102,21 @@ what will form from that distribution?
 
 
 :diamond_shape_with_a_dot_inside: [**Data Issues Video**](https://www.youtube.com/watch?v=FBivOf73kvw?t=67)
+
+---
+
+<a id=session7></a>
+### Session 7 - Create Fake Data (is Fun!)
+How to create fake data with Python.
+
+**Assignment**: what is heteroskedasticity, why is it a challenge, illustrate in notebook.
+    Send DM to Thom, correct answers can share with group.
+
+`X = [x/10.0 for x in range(100)]
+Y = [2.0 * x + (random.random() - 0.5) * 0 + 5 for x in X]`
+
+:diamond_shape_with_a_dot_inside: [**Fake Data is Fun Video**](https://youtu.be/wfc4tNt8ZY8?t=137)
+
+---
 
 
