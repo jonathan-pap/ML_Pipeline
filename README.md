@@ -113,18 +113,18 @@ How to create fake data with Python.
   - Send DM to Thom, correct answers can share with group.
 
 
-`import matplotlib.pyplot as plt`
-`import random`
+`import matplotlib.pyplot as plt`<br>
+`import random`<br>
 
-`X = [x/10.0 for x in range(100)]`
+`X = [x/10.0 for x in range(100)]` <br>
 
-`Y = [2.0 * x + (random.random() - 0.5) * 0 + 5 for x in X]`
+`Y = [2.0 * x + (random.random() - 0.5) * 0 + 5 for x in X]`<br>
 
-`plt.scatter(X, Y)
-``plt.title('This Is The Title')`
-``plt.xlabel('These Are The X Values')``
-``plt.ylabel('These Are The Y Values')``
-`plt.show()`
+`plt.scatter(X, Y)` <br>
+``plt.title('This Is The Title')``<br>
+``plt.xlabel('These Are The X Values')``<br>
+``plt.ylabel('These Are The Y Values')``<br>
+`plt.show()`<br>
 
 
 
