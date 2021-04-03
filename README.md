@@ -146,7 +146,7 @@ How to create fake data with Python.
  2. Thise will create 5 different .csv files of data
  3. Next run each of the files, and explore and play and understand the functionality of the script. look at the fake data creation.
  4. Tip, you can `import sys as sys`, and enter the follow code `sys.quit()` in the script to force stop, so you not running the complete script.
- 
+ <img src="images/sys_quite.png" align="center" height="50" width"40">
  
 
  5. d
