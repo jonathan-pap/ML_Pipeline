@@ -145,21 +145,26 @@ How to create fake data with Python.
     4. Fake_Double_Feature_NonLinear_Data_with_Functional_Noise.py
  2. Thise will create 5 different .csv files of data
  3. Next run each of the files, and explore and play and understand the functionality of the script. look at the fake data creation.
- 4. Tip, you can `import sys as sys`, and enter the follow code `sys.quit()` in the script to force stop, so you not running the complete script.
+    💡 you can `import sys as sys`, and enter the follow code `sys.quit()` in the script to force stop, so you not running the complete script.
  
- <img src="/images/sys_quite.png" height="200" width="180">
+ <img src="/images/sys_quite.png" height="380" width="450">
  
-
- 5. d
- 6. d
- 7. 
-   
+ 4. Gneral_Toolls.py: this file is a module that you can call from with your scirpt, has function to calculate:
+    1.print('Mean Square Error      = ' + str(MSE))
+    2.print('Root Mean Square Error = ' + str(RMSE))
+    3.print('Mean Absolute Error    = ' + str(MAE))
+    4.print('Median Absolute Error  = ' + str(MedAE))
+    5.print('R^2                    = ' + str(r2))
+    6.print('Adjusted R^2           = ' + str(r2_adj))
+ 
+ 
+ <img src="/images/regression_with_fake_data_fun.JPGg" height="380" width="450">   
     
 
 
 
 
 
-:diamond_shape_with_a_dot_inside: [**Fake Data is Fun Video**](https://youtu.be/wfc4tNt8ZY8?t=137)
+:diamond_shape_with_a_dot_inside: [**Fake Data is Fun Video**](https://youtu.be/vr1tFEtlv9A)
 
 ---
