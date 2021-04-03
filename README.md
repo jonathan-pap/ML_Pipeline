@@ -150,15 +150,16 @@ How to create fake data with Python.
  <img src="/images/sys_quite.png" height="380" width="450">
  
  4. Gneral_Toolls.py: this file is a module that you can call from with your scirpt, has function to calculate:
-    1. print('Mean Square Error      = ' + str(MSE))
-    2. print('Root Mean Square Error = ' + str(RMSE))
-    3. print('Mean Absolute Error    = ' + str(MAE))
-    4. print('Median Absolute Error  = ' + str(MedAE))
-    5. print('R^2                    = ' + str(r2))
-    6. print('Adjusted R^2           = ' + str(r2_adj))
+    1. print('Mean Square Error       --> [MSE](https://www.statisticshowto.com/probability-and-statistics/statistics-definitions/mean-squared-error/)
+    2. print('Root Mean Square Error  --> [RMSE](https://www.statisticshowto.com/probability-and-statistics/regression-analysis/rmse-root-mean-square-error/)
+    3. print('Mean Absolute Error     --> [MAE](https://www.statisticshowto.com/absolute-error/)
+    4. print('Median Absolute Error   --> [MeDAR](https://www.statisticshowto.com/median-absolute-deviation/)
+    5. print('R^2                     --> [r2](https://statisticsbyjim.com/regression/interpret-r-squared-regression/)
+    6. print('Adjusted R^2            --> [r2_adj](https://www.statisticshowto.com/probability-and-statistics/statistics-definitions/adjusted-r2/)
   
 
-
+[Regression Analysis](https://statisticsbyjim.com/regression/when-use-regression-analysis/)
+[Regression Statistics](https://www.statisticshowto.com/probability-and-statistics/regression-analysis/)
 
 
 :diamond_shape_with_a_dot_inside: [**Fake Data is Fun Video**](https://youtu.be/vr1tFEtlv9A)
