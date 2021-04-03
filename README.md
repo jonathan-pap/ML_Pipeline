@@ -145,7 +145,8 @@ How to create fake data with Python.
     4. Fake_Double_Feature_NonLinear_Data_with_Functional_Noise.py
  2. Thise will create 5 different .csv files of data
  3. Next run each of the files, and explore and play and understand the functionality of the script. look at the fake data creation.
-    💡 you can `import sys as sys`, and enter the follow code `sys.quit()` in the script to force stop, so you not running the complete script.
+ 
+ 💡 you can `import sys as sys`, and enter the follow code `sys.quit()` in the script to force stop, so you not running the complete script.
  
  <img src="/images/sys_quite.png" height="380" width="450">
  
