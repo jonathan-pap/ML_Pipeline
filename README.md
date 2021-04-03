@@ -7,6 +7,7 @@
 - [Session 5 - Toolkit: Python Environments & Visual Studio & Health Infomatics](#session5)
 - [Session 6 - Data Set, Data Sample, Data Issues](#session6)
 - [Session 7 - Create Fake Data (is Fun!)](#session7)
+- [Session 8 - Linear Regression with Fake Data](#session8)
 
 ---
 
@@ -132,4 +133,32 @@ How to create fake data with Python.
 
 ---
 
+<a id=session8></a>
+### Session 8 - Linear Regression with Fake Data](#session8)
 
+**Assignment** Play with the models, ❗ (Please repull the repo)
+
+ 1. First run the Fake Data Creations .py.
+    1. Fake_Single_Feature_Linear_Data.py
+    2. Fake_Single_Feature_NonLinear_Data.py
+    3. Fake_Double_Feature_Linear_Data.py
+    4. Fake_Double_Feature_NonLinear_Data_with_Functional_Noise.py
+ 2. Thise will create 5 different .csv files of data
+ 3. Next run each of the files, and explore and play and understand the functionality of the script. look at the fake data creation.
+ 4. Tip, you can `import sys as sys`, and enter the follow code `sys.quit()` in the script to force stop, so you not running the complete script.
+ 
+ 
+
+ 5. d
+ 6. d
+ 7. 
+   
+    
+
+
+
+
+
+:diamond_shape_with_a_dot_inside: [**Fake Data is Fun Video**](https://youtu.be/wfc4tNt8ZY8?t=137)
+
+---
