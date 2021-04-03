@@ -134,7 +134,7 @@ How to create fake data with Python.
 ---
 
 <a id=session8></a>
-### Session 8 - Linear Regression with Fake Data](#session8)
+### Session 8 - Linear Regression with Fake Data
 
 **Assignment** Play with the models, ❗ (Please repull the repo)
 
@@ -159,9 +159,10 @@ How to create fake data with Python.
   
 
 [Regression Analysis](https://statisticsbyjim.com/regression/when-use-regression-analysis/)
+
 [Regression Statistics](https://www.statisticshowto.com/probability-and-statistics/regression-analysis/)
 
 
-:diamond_shape_with_a_dot_inside: [**Fake Data is Fun Video**](https://youtu.be/vr1tFEtlv9A)
+:diamond_shape_with_a_dot_inside: [**Linear Regression with Fake Data Video **](https://youtu.be/vr1tFEtlv9A)
 
 ---
