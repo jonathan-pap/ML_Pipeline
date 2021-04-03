@@ -147,7 +147,7 @@ How to create fake data with Python.
  3. Next run each of the files, and explore and play and understand the functionality of the script. look at the fake data creation.
  4. Tip, you can `import sys as sys`, and enter the follow code `sys.quit()` in the script to force stop, so you not running the complete script.
  
- <img src="/images/sys_quite.png" height="120" width="120">
+ <img src="/images/sys_quite.png" height="200" width="180">
  
 
  5. d
