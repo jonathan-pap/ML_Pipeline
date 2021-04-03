@@ -150,17 +150,13 @@ How to create fake data with Python.
  <img src="/images/sys_quite.png" height="380" width="450">
  
  4. Gneral_Toolls.py: this file is a module that you can call from with your scirpt, has function to calculate:
-    1.print('Mean Square Error      = ' + str(MSE))
-    2.print('Root Mean Square Error = ' + str(RMSE))
-    3.print('Mean Absolute Error    = ' + str(MAE))
-    4.print('Median Absolute Error  = ' + str(MedAE))
-    5.print('R^2                    = ' + str(r2))
-    6.print('Adjusted R^2           = ' + str(r2_adj))
- 
- 
- <img src="/images/regression_with_fake_data_fun.JPGg" height="380" width="450">   
-    
-
+    1. print('Mean Square Error      = ' + str(MSE))
+    2. print('Root Mean Square Error = ' + str(RMSE))
+    3. print('Mean Absolute Error    = ' + str(MAE))
+    4. print('Median Absolute Error  = ' + str(MedAE))
+    5. print('R^2                    = ' + str(r2))
+    6. print('Adjusted R^2           = ' + str(r2_adj))
+  
 
 
 
