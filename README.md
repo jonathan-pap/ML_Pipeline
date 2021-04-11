@@ -174,6 +174,8 @@ added Colab Workbook for heterskedasticity [here](assignment_heteroskedasticity.
 ### Session 9 - Deeplearning Scenario, intro to tensorflow, data Preparation
 #### Convolutional neural networks (CNN)
 
+##### Summary of session
+
 - Convolutional Layer
 - Effect of Filter Size (Kernel Size)
 - Max Pool
@@ -181,6 +183,8 @@ added Colab Workbook for heterskedasticity [here](assignment_heteroskedasticity.
 - Batch Sizing
 - Padding
 - Epochs
+
+
 Here are some links that have some visual explanations
 
 - [Tinker With a Neural Network](https://playground.tensorflow.org/#activation=tanh&batchSize=6&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=1,1&seed=0.77132&showTestData=false&discretize=false&percTrainData=50&x=true&y=false&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false)
@@ -195,8 +199,6 @@ Here are some links that have some visual explanations
 - [Padding and Stride](https://machinelearningmastery.com/padding-and-stride-for-convolutional-neural-networks/)
 - [Avinash repo; opencv tutorials](https://github.com/AVI18794/OPENCV_TUTORIALS)
 
-
-https://setosa.io/ev/image-kernels/
 
 - RegeX : Regular Expression `import re`
   - [What is regex](https://regexone.com/)
