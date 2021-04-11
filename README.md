@@ -185,7 +185,8 @@ added Colab Workbook for heterskedasticity [here](assignment_heteroskedasticity.
 - Epochs
 
 
-Here are some links that have some visual explanations
+👇 Here are some links that have some visual explanations and a playground to experiement.
+
 
 - [Tinker With a Neural Network](https://playground.tensorflow.org/#activation=tanh&batchSize=6&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=1,1&seed=0.77132&showTestData=false&discretize=false&percTrainData=50&x=true&y=false&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false)
 - [Convolution visualizer](https://ezyang.github.io/convolution-visualizer/index.html)
@@ -200,7 +201,8 @@ Here are some links that have some visual explanations
 - [Avinash repo; opencv tutorials](https://github.com/AVI18794/OPENCV_TUTORIALS)
 
 
-- RegeX : Regular Expression `import re`
-  - [What is regex](https://regexone.com/)
+
+**RegeX** : Regular Expression `import re`  [What is regex?](https://regexone.com/)
+
 
 :diamond_shape_with_a_dot_inside: [**Deeplearning Scenario, intro to tensorflow, data Preparation **](https://www.youtube.com/watch?v=_4sjZBacaDM)
