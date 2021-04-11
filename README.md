@@ -169,3 +169,36 @@ added Colab Workbook for heterskedasticity [here](assignment_heteroskedasticity.
 :diamond_shape_with_a_dot_inside: [**Linear Regression with Fake Data Video **](https://youtu.be/vr1tFEtlv9A)
 
 ---
+
+<a id=session9></a>
+### Session 9 - Deeplearning Scenario, intro to tensorflow, data Preparation
+#### Convolutional neural networks (CNN)
+
+- Convolutional Layer
+- Effect of Filter Size (Kernel Size)
+- Max Pool
+- Average Pool
+- Batch Sizing
+- Padding
+- Epochs
+Here are some links that have some visual explanations
+
+- [Tinker With a Neural Network](https://playground.tensorflow.org/#activation=tanh&batchSize=6&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=1,1&seed=0.77132&showTestData=false&discretize=false&percTrainData=50&x=true&y=false&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false)
+- [Convolution visualizer](https://ezyang.github.io/convolution-visualizer/index.html)
+- [What is a Neural Network](https://towardsdatascience.com/what-is-a-neural-network-6010edabde2b)
+- [Convolutional Nearual Network Python](https://www.datacamp.com/community/tutorials/convolutional-neural-networks-python)
+- [Convolutional Neural Networks cheatsheet](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks?fbclid=IwAR0qn8GjS7fUjexad0GCjXYchU3kqHZOQC3n1Z1bhCw9hFDy3X_FxFoev_8)
+- [Convolutional Neural Networks (CNNs) explained Video](https://www.youtube.com/watch?v=YRhxdVk_sIs)
+- [A deeper understanding of NNets (Part 1) — CNNs](https://towardsdatascience.com/a-deeper-understanding-of-nnets-part-1-cnns-263a6e3ac61)
+- [Difference Between a Batch and an Epoch in a Neural Network](https://machinelearningmastery.com/difference-between-a-batch-and-an-epoch/)
+- [Epoch vs Iterations vs Batch size](https://towardsdatascience.com/epoch-vs-iterations-vs-batch-size-4dfb9c7ce9c9)
+- [Padding and Stride](https://machinelearningmastery.com/padding-and-stride-for-convolutional-neural-networks/)
+- [Avinash repo; opencv tutorials](https://github.com/AVI18794/OPENCV_TUTORIALS)
+
+
+https://setosa.io/ev/image-kernels/
+
+- RegeX : Regular Expression `import re`
+  - [What is regex](https://regexone.com/)
+
+:diamond_shape_with_a_dot_inside: [**Deeplearning Scenario, intro to tensorflow, data Preparation **](https://www.youtube.com/watch?v=_4sjZBacaDM)
