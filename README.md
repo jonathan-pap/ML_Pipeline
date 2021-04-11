@@ -8,6 +8,7 @@
 - [Session 6 - Data Set, Data Sample, Data Issues](#session6)
 - [Session 7 - Create Fake Data (is Fun!)](#session7)
 - [Session 8 - Linear Regression with Fake Data](#session8)
+- [Session 9 - Deeplearning Scenario, intro to tensorflow, data Preparation](#session9)
 
 ---
 
@@ -128,6 +129,7 @@ How to create fake data with Python.
 `plt.show()`<br>
 
 
+added Colab Workbook for heterskedasticity [here](assignment_heteroskedasticity.ipynb)
 
 :diamond_shape_with_a_dot_inside: [**Fake Data is Fun Video**](https://youtu.be/wfc4tNt8ZY8?t=137)
 
