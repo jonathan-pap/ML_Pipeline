@@ -209,7 +209,7 @@ added Colab Workbook for heterskedasticity [here](assignment_heteroskedasticity.
 :diamond_shape_with_a_dot_inside: [**Deeplearning Scenario, intro to tensorflow, data Preparation **](https://www.youtube.com/watch?v=_4sjZBacaDM)
 
 
-<a id=session9></a>
+<a id=session10></a>
 ### Session 10 - Data Augmenting
 
 **Data Augmenting Techniques**
@@ -222,9 +222,20 @@ added Colab Workbook for heterskedasticity [here](assignment_heteroskedasticity.
 - Rotate
 - Recolor
 
-- PCA (Principal Component Analysis.
+- PCA, Principal Component Analysis (topic for later lesson)
+
+*Ghaith*
+Here is some notes about data augmenting session: 
+
+Data augmentation techniques used in deep learning, but it is still part of data preparation. according to this fact, data augmentation mechanisms will be customized to create important part of ML pipeline.
+
+I wanted to start with data quantity issues solving then we will back to the more fancy and funny part related to data quality.
+the assignment for next week is answering the following questions:
+
+- how to perform customized rotation(any value of degree not only 90), code in python is required, and i wish to find presenting volunteers, this task can be performed is many ways and cooperation with other family members to cover many ways to solve the assignment is allowed and appreciated.
+
+- is it possible to re-color the grayscale image, and how: for this question we are not looking for coding examples, we are just looking for explaining and proofing about the answer, you can consider as research task, also brave presenter are highly appreciated.
 
 
-
-:diamond_shape_with_a_dot_inside: [**Deeplearning Scenario, intro to tensorflow, data Preparation **](https://youtu.be/qwsQvRy5aDI?t=127)
+:diamond_shape_with_a_dot_inside: [**Data Augmenting**](https://youtu.be/qwsQvRy5aDI?t=127)
 
