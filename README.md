@@ -208,6 +208,7 @@ added Colab Workbook for heterskedasticity [here](assignment_heteroskedasticity.
 
 :diamond_shape_with_a_dot_inside: [**Deeplearning Scenario, intro to tensorflow, data Preparation Video**](https://www.youtube.com/watch?v=_4sjZBacaDM)
 
+---
 
 <a id=session10></a>
 ### Session 10 - Data Augmenting
