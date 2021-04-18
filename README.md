@@ -9,6 +9,7 @@
 - [Session 7 - Create Fake Data (is Fun!)](#session7)
 - [Session 8 - Linear Regression with Fake Data](#session8)
 - [Session 9 - Deeplearning Scenario, intro to tensorflow, data Preparation](#session9)
+- [Session 10 - Data Augmenting](#session10)
 
 ---
 
@@ -206,3 +207,24 @@ added Colab Workbook for heterskedasticity [here](assignment_heteroskedasticity.
 
 
 :diamond_shape_with_a_dot_inside: [**Deeplearning Scenario, intro to tensorflow, data Preparation **](https://www.youtube.com/watch?v=_4sjZBacaDM)
+
+
+<a id=session9></a>
+### Session 10 - Data Augmenting
+
+**Data Augmenting Techniques**
+
+- Mirroring
+  - Flip Horizontal / Vertical
+  - Flip Random
+  
+- Cropping
+- Rotate
+- Recolor
+
+- PCA (Principal Component Analysis.
+
+
+
+:diamond_shape_with_a_dot_inside: [**Deeplearning Scenario, intro to tensorflow, data Preparation **](https://youtu.be/qwsQvRy5aDI?t=127)
+
