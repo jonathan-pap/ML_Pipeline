@@ -240,7 +240,7 @@ the assignment for next week is answering the following questions:
 - is it possible to re-color the grayscale image, and how: for this question we are not looking for coding examples, we are just looking for explaining and proofing about the answer, you can consider as research task, also brave presenter are highly appreciated.
 
 
-*[data augmentation](https://www.tensorflow.org/tutorials/images/data_augmentation)*
+*[tensorflow data augmentation tutorial](https://www.tensorflow.org/tutorials/images/data_augmentation)*
 
 :diamond_shape_with_a_dot_inside: [**Data Augmenting Video**](https://youtu.be/qwsQvRy5aDI?t=127)
 
