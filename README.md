@@ -10,6 +10,7 @@
 - [Session 8 - Linear Regression with Fake Data](#session8)
 - [Session 9 - Deeplearning Scenario, intro to tensorflow, data Preparation](#session9)
 - [Session 10 - Data Augmenting](#session10)
+- [Session 11 - Data Balancing](#session11)
 
 ---
 
@@ -244,3 +245,33 @@ the assignment for next week is answering the following questions:
 
 :diamond_shape_with_a_dot_inside: [**Data Augmenting Video**](https://youtu.be/qwsQvRy5aDI?t=127)
 
+---
+
+<a id=session11></a>
+### Session 11 - Data Imbalance
+
+*A classification data set with skewed class proportions is called imbalanced. 
+Classes that make up a large proportion of the data set are called majority classes. 
+Those that make up a smaller proportion are minority classes*
+
+
+- created imbalannced data set, by taking sample from each set infected, uninfected
+  - using `.sample` from Pands library
+ 
+- Data set, *Name of image, folder name, label*
+  - label: 1 = infected, 0 = uninfected
+
+*[monai](https://monai.io/)*
+good to use on medical sets , with predefined tools for 2D, 3D images.
+explanition in video at 14:00 minutes.
+
+- Example of batches sizes 10 showing the class imbalancing.
+
+**Assignment**
+To see the impat of oversampling, how the distribution of Data will change.
+- Experiment with Batch Sizes
+- Experiment with import sample sizes
+- What other techniques are there to solve imbalancing with changing number of sample in each batch
+
+
+:diamond_shape_with_a_dot_inside: [**Data Imbalance Video**](https://youtu.be/7Xbekc2qMPc)
