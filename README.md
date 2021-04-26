@@ -261,17 +261,22 @@ Those that make up a smaller proportion are minority classes*
 - Data set, *Name of image, folder name, label*
   - label: 1 = infected, 0 = uninfected
 
-*[monai](https://monai.io/)*
-good to use on medical sets , with predefined tools for 2D, 3D images.
+*[monai](https://monai.io/)* good to use on medical sets , with predefined tools for 2D, 3D images.
 explanition in video at 14:00 minutes.
 
 - Example of batches sizes 10 showing the class imbalancing.
 
 **Assignment**
-To see the impat of oversampling, how the distribution of Data will change.
+
+To see the impact of oversampling, how the distribution of Data will change.
 - Experiment with Batch Sizes
 - Experiment with import sample sizes
 - What other techniques are there to solve imbalancing with changing number of sample in each batch
 
+
+Always good to see other tools and share our findings in our **pipeline_class_chat**
+
+MORE TOGETHER!
+ 
 
 :diamond_shape_with_a_dot_inside: [**Data Imbalance Video**](https://youtu.be/7Xbekc2qMPc)
