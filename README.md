@@ -293,13 +293,26 @@ MORE TOGETHER!
   - Image net (1million images, split into 1000 catergoires)
   - uses of Resnet18, There are others and different varieties can be used.
 - Training and Validation
+  - train using `randflipd, randrotae90d, RandGassuanNoised`
+  - validation, no transformations
 - Training Vs Test Accuarcy
+
+
 - Confusion Matrix
 
 |               | Positive (1) | Negative (0) |
 |---------------|--------------|--------------|
 | Postitive (1) |      TP      |      FP      |
 | Negative (0)  |      FN      |      TN      |
+
+- True Positive
+- True Negative
+- False Positive: (Type 1 Error)
+- False Negative: (Type 2 Error)
+
+- Recall = TP / (TP + FN)
+- Precision  = TP / (TP+FP)
+- F-Score  = 2*Recall*Precision / Recall + Precision (used to compate models)
 
 
 
