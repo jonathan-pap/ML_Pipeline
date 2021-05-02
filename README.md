@@ -284,8 +284,8 @@ MORE TOGETHER!
 
 ---
 
-<a id=session11></a>
-### Session 13 - Data balancing & training effect
+<a id=session12></a>
+### Session 12 - Data balancing & training effect
 
 - Weight Computation for Oversmapling & Penalization
 - Use of Pre-Trained Models. 
@@ -298,17 +298,14 @@ MORE TOGETHER!
 - Training Vs Test Accuarcy
 
 
-- Confusion Matrix
+Confusion Matrix
 
 |               | Positive (1) | Negative (0) |
 |---------------|--------------|--------------|
 | Postitive (1) |      TP      |      FP      |
 | Negative (0)  |      FN      |      TN      |
 
-- True Positive
-- True Negative
-- False Positive: (Type 1 Error)
-- False Negative: (Type 2 Error)
+*True Positive, True Negative, False Positive: (Type 1 Error), False Negative: (Type 2 Error)
 
 - Recall = TP / (TP + FN)
 - Precision  = TP / (TP+FP)
