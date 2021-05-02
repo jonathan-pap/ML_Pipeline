@@ -11,6 +11,7 @@
 - [Session 9 - Deeplearning Scenario, intro to tensorflow, data Preparation](#session9)
 - [Session 10 - Data Augmenting](#session10)
 - [Session 11 - Data Balancing](#session11)
+- [Session 12 - Data balancing & training effect](#session12)
 
 ---
 
@@ -282,3 +283,21 @@ MORE TOGETHER!
 :diamond_shape_with_a_dot_inside: [**Data Imbalance Video**](https://youtu.be/7Xbekc2qMPc)
 
 ---
+
+<a id=session11></a>
+### Session 13 - Data balancing & training effect
+
+- Weight Computation for Oversmapling & Penalization
+- Use of Pre-Trained Models. 
+  - Trained on label samples
+  - Image net (1million images, split into 1000 catergoires)
+  - uses of Resnet18, There are others and different varieties can be used.
+- Training and Validation
+- Training Vs Test Accuarcy
+- Confusion Matrix
+
+|--|--|
+
+
+:diamond_shape_with_a_dot_inside: [**Data balancing & training effect Video**](https://youtu.be/dSDNci03xPg)
+
