@@ -296,7 +296,12 @@ MORE TOGETHER!
 - Training Vs Test Accuarcy
 - Confusion Matrix
 
-|--|--|
+|               | Positive (1) | Negative (0) |
+|---------------|--------------|--------------|
+| Postitive (1) |      TP      |      FP      |
+| Negative (0)  |      FN      |      TN      |
+
+
 
 
 :diamond_shape_with_a_dot_inside: [**Data balancing & training effect Video**](https://youtu.be/dSDNci03xPg)
