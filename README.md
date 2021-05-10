@@ -12,6 +12,7 @@
 - [Session 10 - Data Augmenting](#session10)
 - [Session 11 - Data Balancing](#session11)
 - [Session 12 - Data balancing & training effect](#session12)
+- [Session 13 - Collecting Data From Storage](#session13)
 
 ---
 
@@ -309,10 +310,25 @@ Confusion Matrix
 
 - Recall = TP / (TP + FN)
 - Precision  = TP / (TP+FP)
-- F-Score  = 2*Recall*Precision / Recall + Precision (used to compate models)
+- F-Score  = 2* Recall * Precision / Recall + Precision (used to compate models)
 
 
 
 
 :diamond_shape_with_a_dot_inside: [**Data balancing & training effect Video**](https://youtu.be/dSDNci03xPg)
 
+---
+
+<a id=session13></a>
+### Session 13 - Collecting Data From Storage
+
+Creating Data with SQL, Microsoft SQL Server Managment Studio (*SSMS*)
+
+- Collection of data for Timeseries Analysis
+- Randomize data collection
+- Using `While` < 10000 to collect 10000 samples
+- Using Date to randomize patient transactions for collection
+- Create a Procedure that can be called for example in Python,
+- Example of creating the ERD (Entity Relationship Diagram, in SSMS
+
+:diamond_shape_with_a_dot_inside: [**Collecting Data From Storage Video**](https://youtu.be/dSDNci03xPg)
