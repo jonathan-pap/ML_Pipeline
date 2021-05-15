@@ -280,7 +280,7 @@ Always good to see other tools and share our findings in our **pipeline_class_ch
 
 MORE TOGETHER!
  
-
+:diamond_shape_with_a_dot_inside: [**Notebook**](https://colab.research.google.com/drive/1s3YNvlWmtwdZhv1beI2UIRO5Q-q_raoh?usp=sharing)
 :diamond_shape_with_a_dot_inside: [**Data Imbalance Video**](https://youtu.be/7Xbekc2qMPc)
 
 ---
