@@ -334,7 +334,7 @@ Creating Data with SQL, Microsoft SQL Server Managment Studio (*SSMS*)
 
 :diamond_shape_with_a_dot_inside: [**Collecting Data From Storage Video**](https://youtu.be/dSDNci03xPg)
 
-
+--- 
 
 <a id=session14></a>
 ### Session 14 - SQL & Python
