@@ -349,8 +349,9 @@ Creating Data with SQL, Microsoft SQL Server Managment Studio (*SSMS*)
   - Insert Dataframes as Table
   - Update DB
   
- Example of SQL queary pull and convert to Pandas DF.
- 
- Example of Pandas to SQL Table.
+ Examples of:
+  - SQL query pull and convert to Pandas DF.
+  - Pandas DF to SQL Table.
+  - Checksum, for detecting errors
   
 :diamond_shape_with_a_dot_inside: [**More on Data SQL & Python**](https://www.youtube.com/watch?v=1NB1iVj5i0I)
