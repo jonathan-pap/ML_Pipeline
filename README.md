@@ -339,7 +339,7 @@ Creating Data with SQL, Microsoft SQL Server Managment Studio (*SSMS*)
 <a id=session14></a>
 ### Session 14 - SQL & Python
 
-- sqlaclhemy
+- sqlalchemy
 - sqlalchemy engine
 - Define functions for server and db connection
 - Functions for 
