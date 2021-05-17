@@ -12,7 +12,8 @@
 - [Session 10 - Data Augmenting](#session10)
 - [Session 11 - Data Balancing](#session11)
 - [Session 12 - Data balancing & training effect](#session12)
-- [Session 13 - Collecting Data From Storage](#session13)
+- [Session 13 - Collecting Data From Storage SQL](#session13)
+- [Session 14 - SQL & Python](#session14)
 
 ---
 
@@ -332,3 +333,24 @@ Creating Data with SQL, Microsoft SQL Server Managment Studio (*SSMS*)
 - Example of creating the ERD (Entity Relationship Diagram, in SSMS
 
 :diamond_shape_with_a_dot_inside: [**Collecting Data From Storage Video**](https://youtu.be/dSDNci03xPg)
+
+
+
+<a id=session14></a>
+### Session 14 - SQL & Python
+
+- sqlaclhemy
+- sqlalchemy engine
+- Define functions for server and db connection
+- Functions for 
+  - Checking table exists
+  - Create_table
+  - Drop_table
+  - Insert Dataframes as Table
+  - Update DB
+  
+ Example of SQL queary pull and convert to Pandas DF.
+ 
+ Example of Pandas to SQL Table.
+  
+:diamond_shape_with_a_dot_inside: [**More on Data SQL & Python**](https://www.youtube.com/watch?v=1NB1iVj5i0I)
