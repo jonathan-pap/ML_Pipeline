@@ -354,4 +354,4 @@ Creating Data with SQL, Microsoft SQL Server Managment Studio (*SSMS*)
   - Pandas DF to SQL Table.
   - Checksum, for detecting errors
   
-:diamond_shape_with_a_dot_inside: [**More on Data SQL & Python**](https://www.youtube.com/watch?v=1NB1iVj5i0I)
+:diamond_shape_with_a_dot_inside: [**More on Data SQL & Python Video**](https://www.youtube.com/watch?v=1NB1iVj5i0I)
