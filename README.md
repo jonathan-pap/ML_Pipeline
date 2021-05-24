@@ -14,6 +14,7 @@
 - [Session 12 - Data balancing & training effect](#session12)
 - [Session 13 - Collecting Data From Storage SQL](#session13)
 - [Session 14 - SQL & Python](#session14)
+- [Session 15 - Fake Data Creation Part 2](#session15)
 
 ---
 
@@ -355,3 +356,21 @@ Creating Data with SQL, Microsoft SQL Server Managment Studio (*SSMS*)
   - Checksum, for detecting errors
   
 :diamond_shape_with_a_dot_inside: [**More on Data SQL & Python Video**](https://www.youtube.com/watch?v=1NB1iVj5i0I)
+
+
+<a id=session14></a>
+### Session 14 - Fake Data Creation Part 2
+
+- Reference to [**Khuyen Tran**](https://www.linkedin.com/in/khuyen-tran-1401/) `Faker` Article.
+  - [`Faker Article`](https://mathdatasimplified.com/2021/05/14/faker-create-fake-data-in-one-line-of-code)
+
+- Fake Data for Regression.
+  -  Functions to define featuers / Noise / Model
+  -  Plotting Model
+
+- Create Fake Classification Data
+  -  Functions for Clusters, and Labels
+
+- Libraries: `pandas, numpy, json, matplotlib.pyplot`
+
+:diamond_shape_with_a_dot_inside: [**Fake Data Creation Part 2**](https://youtu.be/WZEt9Zks68A)
