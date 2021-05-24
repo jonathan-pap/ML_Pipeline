@@ -374,4 +374,5 @@ Creating Data with SQL, Microsoft SQL Server Managment Studio (*SSMS*)
 
 Libraries: `pandas, numpy, json, matplotlib.pyplot`
 
+
 :diamond_shape_with_a_dot_inside: [**Fake Data Creation Part 2**](https://youtu.be/WZEt9Zks68A)
