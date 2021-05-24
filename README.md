@@ -361,8 +361,8 @@ Creating Data with SQL, Microsoft SQL Server Managment Studio (*SSMS*)
 <a id=session15></a>
 ### Session 15 - Fake Data Creation Part 2
 
-- Reference to [**Khuyen Tran**](https://www.linkedin.com/in/khuyen-tran-1401/) `Faker` Article.
-  - [`Faker Article`](https://mathdatasimplified.com/2021/05/14/faker-create-fake-data-in-one-line-of-code)
+- Reference to [**Khuyen Tran**](https://www.linkedin.com/in/khuyen-tran-1401/), [`Faker Article`](https://mathdatasimplified.com/2021/05/14/faker-create-fake-data-in-one-line-of-code)
+ 
 
 - Fake Data for Regression.
   -  Functions to define featuers / Noise / Model
@@ -370,7 +370,8 @@ Creating Data with SQL, Microsoft SQL Server Managment Studio (*SSMS*)
 
 - Create Fake Classification Data
   -  Functions for Clusters, and Labels
+  -  Plott Model
 
-- Libraries: `pandas, numpy, json, matplotlib.pyplot`
+Libraries: `pandas, numpy, json, matplotlib.pyplot`
 
 :diamond_shape_with_a_dot_inside: [**Fake Data Creation Part 2**](https://youtu.be/WZEt9Zks68A)
