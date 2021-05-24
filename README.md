@@ -358,8 +358,8 @@ Creating Data with SQL, Microsoft SQL Server Managment Studio (*SSMS*)
 :diamond_shape_with_a_dot_inside: [**More on Data SQL & Python Video**](https://www.youtube.com/watch?v=1NB1iVj5i0I)
 
 
-<a id=session14></a>
-### Session 14 - Fake Data Creation Part 2
+<a id=session15></a>
+### Session 15 - Fake Data Creation Part 2
 
 - Reference to [**Khuyen Tran**](https://www.linkedin.com/in/khuyen-tran-1401/) `Faker` Article.
   - [`Faker Article`](https://mathdatasimplified.com/2021/05/14/faker-create-fake-data-in-one-line-of-code)
