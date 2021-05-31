@@ -15,7 +15,7 @@
 - [Session 13 - Collecting Data From Storage SQL](#session13)
 - [Session 14 - SQL & Python](#session14)
 - [Session 15 - Fake Data Creation Part 2](#session15)
-- [Session 15 - Data Cleansing](#session16
+- [Session 15 - Data Cleansing](#session16)
 
 ---
 
