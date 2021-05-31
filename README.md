@@ -394,4 +394,4 @@ Libraries: `pandas, numpy, json, matplotlib.pyplot`
 - Find a drop Columns with only 1 unqiue value, (non repeating)
 
 
-:diamond_shape_with_a_dot_inside: [**Fake Data Cleansing Part 1**](https://youtu.be/EdzxERBVQS0)
+:diamond_shape_with_a_dot_inside: [**Data Cleansing Part 1**](https://youtu.be/EdzxERBVQS0)
