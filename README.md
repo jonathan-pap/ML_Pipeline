@@ -15,6 +15,7 @@
 - [Session 13 - Collecting Data From Storage SQL](#session13)
 - [Session 14 - SQL & Python](#session14)
 - [Session 15 - Fake Data Creation Part 2](#session15)
+- [Session 15 - Data Cleansing](#session16
 
 ---
 
@@ -357,6 +358,7 @@ Creating Data with SQL, Microsoft SQL Server Managment Studio (*SSMS*)
   
 :diamond_shape_with_a_dot_inside: [**More on Data SQL & Python Video**](https://www.youtube.com/watch?v=1NB1iVj5i0I)
 
+--- 
 
 <a id=session15></a>
 ### Session 15 - Fake Data Creation Part 2
@@ -376,3 +378,20 @@ Libraries: `pandas, numpy, json, matplotlib.pyplot`
 
 
 :diamond_shape_with_a_dot_inside: [**Fake Data Creation Part 2**](https://youtu.be/WZEt9Zks68A)
+
+
+---
+
+<a id=session16></a>
+### Session 16 - Data Cleansing Part 1
+
+- Example in Visuald Studio 19
+- Data Cleansing, with Pandas & Numpy
+- Resuable Code
+- Class and Functions
+- Find an Index Column (Unique / Non-Unique)
+- Quickly find NaNs and % of Nans per columns
+- Find a drop Columns with only 1 unqiue value, (non repeating)
+
+
+:diamond_shape_with_a_dot_inside: [**Fake Data Cleansing Part 1**](https://youtu.be/EdzxERBVQS0)
