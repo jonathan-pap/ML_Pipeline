@@ -15,7 +15,8 @@
 - [Session 13 - Collecting Data From Storage SQL](#session13)
 - [Session 14 - SQL & Python](#session14)
 - [Session 15 - Fake Data Creation Part 2](#session15)
-- [Session 15 - Data Cleansing](#session16)
+- [Session 16 - [Data Cleansing](#session16)
+- [Session 17 - [Data Formating](#session17)
 
 ---
 
@@ -395,3 +396,17 @@ Libraries: `pandas, numpy, json, matplotlib.pyplot`
 
 
 :diamond_shape_with_a_dot_inside: [**Data Cleansing Part 1**](https://youtu.be/EdzxERBVQS0)
+
+<a id=session17></a>
+### Session 17 - Data Formatting
+
+Using Functions to determine what datatype a column be in dataframe can be.
+
+**Assignment:** 
+- Improvement of code,
+- Generalise datetime conversion
+- How to process NaN value
+
+
+:diamond_shape_with_a_dot_inside: [**Data Formatting**](https://www.youtube.com/watch?v=t5h-VlBmatQ)
+
