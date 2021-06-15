@@ -15,8 +15,9 @@
 - [Session 13 - Collecting Data From Storage SQL](#session13)
 - [Session 14 - SQL & Python](#session14)
 - [Session 15 - Fake Data Creation Part 2](#session15)
-- [Session 16 - Data Cleansing](#session16)
-- [Session 17 - Data Formating](#session17)
+- [Session 16 - Data Cleansing.p1](#session16)
+- [Session 17 - Data Cleansing.p2](#session17)
+- [Session 18 - Data Cleansing.p3](#session18)
 
 ---
 
@@ -384,7 +385,7 @@ Libraries: `pandas, numpy, json, matplotlib.pyplot`
 ---
 
 <a id=session16></a>
-### Session 16 - Data Cleansing Part 1
+### Session 16 - Data Cleansing (DF completeness)
 
 - Example in Visuald Studio 19
 - Data Cleansing, with Pandas & Numpy
@@ -400,7 +401,7 @@ Libraries: `pandas, numpy, json, matplotlib.pyplot`
 ---
 
 <a id=session17></a>
-### Session 17 - Data Formatting
+### Session 17 - Data Cleansing (Formatting)
 
 Using Functions to determine what datatype a column be in dataframe can be.
 
@@ -409,6 +410,24 @@ Using Functions to determine what datatype a column be in dataframe can be.
 - Generalise datetime conversion
 - How to process NaN value
 
+Note bookk examples: 
+https://github.com/nishamathi/KT/blob/main/DataTypeChk.py
+
+---
 
 :diamond_shape_with_a_dot_inside: [**Data Formatting**](https://www.youtube.com/watch?v=t5h-VlBmatQ)
+
+<a id=session18></a>
+### Session 17 - Data Cleansing (Missing Values)
+
+- Lesson discussion on how to impute missing data.
+- Mean / Median
+- Model prediction to fill out missng data
+
+
+:diamond_shape_with_a_dot_inside: [**Data Imputation**](https://youtu.be/S6UI9dJAiqc)
+
+---
+
+
 
