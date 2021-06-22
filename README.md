@@ -429,6 +429,7 @@ https://github.com/nishamathi/KT/blob/main/DataTypeChk.py
 :diamond_shape_with_a_dot_inside: [**Data Imputation**](https://youtu.be/S6UI9dJAiqc)
 
 ---
+
 <a id=session19></a>
 ### Session 19 - Data Cleansing (Missing Values)
 - MCAR: Missing Completely at Random
@@ -436,6 +437,8 @@ https://github.com/nishamathi/KT/blob/main/DataTypeChk.py
 - MNAR: Missing not at Random
 - EDA Correlations
   -   Example with Pearsons Correlation
+  
+- How to handle differnt types of missing Data
 
 **Assignment**
 - Write function that will take x,y and calculation Pearsons Correlation
