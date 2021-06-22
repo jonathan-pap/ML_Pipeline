@@ -18,6 +18,7 @@
 - [Session 16 - Data Cleansing.p1](#session16)
 - [Session 17 - Data Cleansing.p2](#session17)
 - [Session 18 - Data Cleansing.p3](#session18)
+- [Session 18 - Data Cleansing.p4](#session19)
 
 ---
 
@@ -428,6 +429,19 @@ https://github.com/nishamathi/KT/blob/main/DataTypeChk.py
 :diamond_shape_with_a_dot_inside: [**Data Imputation**](https://youtu.be/S6UI9dJAiqc)
 
 ---
+<a id=session19></a>
+### Session 19 - Data Cleansing (Missing Values)
+- MCAR: Missing Completely at Random
+- MAR: Missing at Random
+- MNAR: Missing not at Random
+- EDA Correlations
+  -   Example with Pearsons Correlation
 
+**Assignment**
+- Write function that will take x,y and calculation Pearsons Correlation
+- Write function that will take x,y and calculation Spearmans Correlation
 
+:diamond_shape_with_a_dot_inside: [**We Care**](https://www.youtube.com/watch?v=k1QVPZLxgkA&t=1541s)
+
+---
 
