@@ -18,7 +18,7 @@
 - [Session 16 - Data Cleansing.p1](#session16)
 - [Session 17 - Data Cleansing.p2](#session17)
 - [Session 18 - Data Cleansing.p3](#session18)
-- [Session 18 - Data Cleansing.p4](#session19)
+- [Session 19 - Data Cleansing.p4](#session19)
 
 ---
 
