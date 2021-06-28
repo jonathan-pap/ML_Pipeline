@@ -19,6 +19,7 @@
 - [Session 17 - Data Cleansing.p2](#session17)
 - [Session 18 - Data Cleansing.p3](#session18)
 - [Session 19 - Data Cleansing.p4](#session19)
+- [Session 20 - Tensorflow Data Validation](#session20)
 
 ---
 
@@ -448,3 +449,20 @@ https://github.com/nishamathi/KT/blob/main/DataTypeChk.py
 
 ---
 
+<a id=session20></a>
+### Session 20 - Tensorflow Data Validation
+- MCAR: Missing Completely at Random
+- MAR: Missing at Random
+- MNAR: Missing not at Random
+- EDA Correlations
+  -   Example with Pearsons Correlation
+  
+- How to handle differnt types of missing Data
+
+**Assignment**
+- Write function that will take x,y and calculation Pearsons Correlation
+- Write function that will take x,y and calculation Spearmans Correlation
+
+:diamond_shape_with_a_dot_inside: [**Tensorflow Data Validation**](https://www.youtube.com/watch?v=N8VCryrTF_4)
+
+---
