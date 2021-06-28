@@ -451,17 +451,17 @@ https://github.com/nishamathi/KT/blob/main/DataTypeChk.py
 
 <a id=session20></a>
 ### Session 20 - Tensorflow Data Validation
-- MCAR: Missing Completely at Random
-- MAR: Missing at Random
-- MNAR: Missing not at Random
-- EDA Correlations
-  -   Example with Pearsons Correlation
-  
-- How to handle differnt types of missing Data
 
-**Assignment**
-- Write function that will take x,y and calculation Pearsons Correlation
-- Write function that will take x,y and calculation Spearmans Correlation
+- Data and Concept Drifts
+
+- Schema Skew
+- Feature Skew
+- Distribution Skew
+- Generate Statistics. 
+
+- If missing a large percentage of data from a feature, get away from the chair, data validation is not about 100% screen time
+- Check with the Business Analyst if the feature is required.
+- Should there be values for the feature, go back to the Data Engineer understand why these are missing, get them added.
 
 :diamond_shape_with_a_dot_inside: [**Tensorflow Data Validation**](https://www.youtube.com/watch?v=N8VCryrTF_4)
 
