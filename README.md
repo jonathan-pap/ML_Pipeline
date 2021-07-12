@@ -414,10 +414,11 @@ Using Functions to determine what datatype a column be in dataframe can be.
 
 Note bookk examples: 
 https://github.com/nishamathi/KT/blob/main/DataTypeChk.py
+:diamond_shape_with_a_dot_inside: [**Data Formatting**](https://www.youtube.com/watch?v=t5h-VlBmatQ)
 
 ---
 
-:diamond_shape_with_a_dot_inside: [**Data Formatting**](https://www.youtube.com/watch?v=t5h-VlBmatQ)
+
 
 <a id=session18></a>
 ### Session 17 - Data Cleansing (Missing Values)
