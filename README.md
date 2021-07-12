@@ -20,6 +20,7 @@
 - [Session 18 - Data Cleansing.p3](#session18)
 - [Session 19 - Data Cleansing.p4](#session19)
 - [Session 20 - Tensorflow Data Validation](#session20)
+- [Session 21 - Scaling](#session21)
 
 ---
 
@@ -161,7 +162,7 @@ added Colab Workbook for heterskedasticity [here](assignment_heteroskedasticity.
  
  💡 you can `import sys`, and enter the follow code `sys.quit()` in the script to force stop, so you not running the complete script.
  
- <img src="/images/sys_quite.png" height="380" width="450">
+
  
  4. General_Toolls.py: this file is a module that you can call from with your scirpt, has function to calculate:
     1. print('Mean Square Error       --> [MSE](https://www.statisticshowto.com/probability-and-statistics/statistics-definitions/mean-squared-error/)
@@ -414,11 +415,10 @@ Using Functions to determine what datatype a column be in dataframe can be.
 
 Note bookk examples: 
 https://github.com/nishamathi/KT/blob/main/DataTypeChk.py
-:diamond_shape_with_a_dot_inside: [**Data Formatting**](https://www.youtube.com/watch?v=t5h-VlBmatQ)
 
 ---
 
-
+:diamond_shape_with_a_dot_inside: [**Data Formatting**](https://www.youtube.com/watch?v=t5h-VlBmatQ)
 
 <a id=session18></a>
 ### Session 17 - Data Cleansing (Missing Values)
@@ -467,4 +467,14 @@ https://github.com/nishamathi/KT/blob/main/DataTypeChk.py
 :diamond_shape_with_a_dot_inside: [**Tensorflow Data Validation**](https://www.youtube.com/watch?v=N8VCryrTF_4)
 
 ---
-x
+<a id=session21></a>
+### Session 21 - Scaling Data
+
+Scaling data using various techniques with different libraries
+
+- Numpy
+- Pandas
+- Tensorflow
+
+
+:diamond_shape_with_a_dot_inside: [**Tensorflow Data Validation**](https://www.youtube.com/watch?v=5KqqQ0NmwYI&list=PLl63hsBNTd2HNq1L0z2l8ri3SHZJ6Egq5&index=25)
