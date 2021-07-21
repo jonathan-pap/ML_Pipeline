@@ -21,6 +21,7 @@
 - [Session 19 - Data Cleansing.p4](#session19)
 - [Session 20 - Tensorflow Data Validation](#session20)
 - [Session 21 - Scaling](#session21)
+- [Session 22 - Scaling Part 2](#session21)
 
 ---
 
@@ -477,4 +478,15 @@ Scaling data using various techniques with different libraries
 - Tensorflow
 
 
-:diamond_shape_with_a_dot_inside: [**Tensorflow Data Validation**](https://www.youtube.com/watch?v=5KqqQ0NmwYI&list=PLl63hsBNTd2HNq1L0z2l8ri3SHZJ6Egq5&index=25)
+:diamond_shape_with_a_dot_inside: [**Scaling**](https://www.youtube.com/watch?v=5KqqQ0NmwYI&list=PLl63hsBNTd2HNq1L0z2l8ri3SHZJ6Egq5&index=25)
+
+---
+<a id=session22></a>
+### Session 22 - Scaling Data Part2
+
+Scaling data using various techniques with pure Pyython code \
+and comparing against libraries results
+
+:diamond_shape_with_a_dot_inside: [**Scaling Part2**](https://www.youtube.com/watch?v=7Y27OAtOtHA)
+
+
