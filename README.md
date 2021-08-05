@@ -21,7 +21,8 @@
 - [Session 19 - Data Cleansing.p4](#session19)
 - [Session 20 - Tensorflow Data Validation](#session20)
 - [Session 21 - Scaling](#session21)
-- [Session 22 - Scaling Part 2](#session21)
+- [Session 22 - Scaling Part 2](#session22)
+- [Session 23 - Quantile Transformer](#session23)
 
 ---
 
@@ -481,6 +482,7 @@ Scaling data using various techniques with different libraries
 :diamond_shape_with_a_dot_inside: [**Scaling**](https://www.youtube.com/watch?v=5KqqQ0NmwYI&list=PLl63hsBNTd2HNq1L0z2l8ri3SHZJ6Egq5&index=25)
 
 ---
+
 <a id=session22></a>
 ### Session 22 - Scaling Data Part2
 
@@ -489,4 +491,14 @@ and comparing against libraries results
 
 :diamond_shape_with_a_dot_inside: [**Scaling Part2**](https://www.youtube.com/watch?v=7Y27OAtOtHA)
 
+---
 
+<a id=session23></a>
+### Session 23 - Quantile Transformer.
+
+- Beta Distribution
+- cumulative probability
+- Skewed Data Generation
+- Quantile transformation of skewed data.
+
+:diamond_shape_with_a_dot_inside: [**Quantile Transformer**](https://www.youtube.com/watch?v=KY2xhi8M6Gc)
