@@ -23,6 +23,7 @@
 - [Session 21 - Scaling](#session21)
 - [Session 22 - Scaling Part 2](#session22)
 - [Session 23 - Quantile Transformer](#session23)
+- [Session 23 - Recap - scaling](#session24)
 
 ---
 
@@ -502,3 +503,12 @@ and comparing against libraries results
 - Quantile transformation of skewed data.
 
 :diamond_shape_with_a_dot_inside: [**Quantile Transformer**](https://www.youtube.com/watch?v=KY2xhi8M6Gc)
+
+---
+
+<a id=session24></a>
+### Session 24 - Scaling recap
+
+:diamond_shape_with_a_dot_inside: 
+
+---
