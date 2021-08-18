@@ -24,6 +24,7 @@
 - [Session 22 - Scaling Part 2](#session22)
 - [Session 23 - Quantile Transformer](#session23)
 - [Session 23 - Recap - scaling](#session24)
+- [Session 23 - Linear Regression Tool Kit](#session25)
 
 ---
 
@@ -512,3 +513,18 @@ and comparing against libraries results
 :diamond_shape_with_a_dot_inside: 
 
 ---
+
+<a id=session25></a>
+### Session 23 - Quantile Transformer.
+
+- Linear Relationships Between Features and Labels
+- Model Coefficients
+- Errors
+- Homoscedastic Errors with Zero Means
+- Observations of Errors
+- Errors are normaly distributed
+
+:diamond_shape_with_a_dot_inside: [**Linear Regression Toolkit**](https://www.youtube.com/watch?v=U_f8g_WA_Cw)
+
+---
+
