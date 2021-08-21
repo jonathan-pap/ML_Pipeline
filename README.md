@@ -23,8 +23,8 @@
 - [Session 21 - Scaling](#session21)
 - [Session 22 - Scaling Part 2](#session22)
 - [Session 23 - Quantile Transformer](#session23)
-- [Session 23 - Recap - scaling](#session24)
-- [Session 23 - Linear Regression Tool Kit](#session25)
+- [Session 24 - Recap - scaling](#session24)
+- [Session 25 - Linear Regression Tool Kit](#session25)
 
 ---
 
@@ -515,7 +515,7 @@ and comparing against libraries results
 ---
 
 <a id=session25></a>
-### Session 23 - Quantile Transformer.
+### Session 25 - Quantile Transformer.
 
 - Linear Relationships Between Features and Labels
 - Model Coefficients
