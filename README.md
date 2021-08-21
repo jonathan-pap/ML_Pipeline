@@ -25,6 +25,7 @@
 - [Session 23 - Quantile Transformer](#session23)
 - [Session 24 - Recap - scaling](#session24)
 - [Session 25 - Linear Regression Tool Kit](#session25)
+- [Session 26 - Python Classes](#session26)
 
 ---
 
@@ -528,3 +529,10 @@ and comparing against libraries results
 
 ---
 
+<a id=session26></a>
+### Session 25 - Quantile Transformer.
+
+- summary of using Classes in Python
+-
+
+:diamond_shape_with_a_dot_inside: [**Linear Regression Toolkit**]()
