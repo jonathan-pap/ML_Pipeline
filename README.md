@@ -26,7 +26,7 @@
 - [Session 24 - Recap - scaling](#session24)
 - [Session 25 - Linear Regression Tool Kit](#session25)
 - [Session 26 - Python Classes](#session26)
-- [Session 27 - Python Classes](#session27)
+- [Session 27 - TOUPDATE!](#session27)
 
 ---
 
