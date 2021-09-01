@@ -26,6 +26,7 @@
 - [Session 24 - Recap - scaling](#session24)
 - [Session 25 - Linear Regression Tool Kit](#session25)
 - [Session 26 - Python Classes](#session26)
+- [Session 27 - Python Classes](#session27)
 
 ---
 
@@ -536,3 +537,12 @@ and comparing against libraries results
 -
 
 :diamond_shape_with_a_dot_inside: [**Linear Regression Toolkit**]()
+
+---
+
+<a id=session27></a>
+### Session 25 - ??????.
+
+
+
+:diamond_shape_with_a_dot_inside: [**Linear Regression Toolkit**](https://www.youtube.com/watch?v=U_f8g_WA_Cw)
