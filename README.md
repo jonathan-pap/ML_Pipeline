@@ -26,7 +26,7 @@
 - [Session 24 - Recap - scaling](#session24)
 - [Session 25 - Linear Regression Tool Kit](#session25)
 - [Session 26 - Python Classes](#session26)
-- [Session 27 - TOUPDATE!](#session27)
+- [Session 27 - Coefficients](#session27)
 
 ---
 
@@ -541,8 +541,9 @@ and comparing against libraries results
 ---
 
 <a id=session27></a>
-### Session 25 - ??????.
+### Session 25 - Coefficients
+
+- feature relationships
 
 
-
-:diamond_shape_with_a_dot_inside: [**Linear Regression Toolkit**](https://www.youtube.com/watch?v=U_f8g_WA_Cw)
+:diamond_shape_with_a_dot_inside: [**Linear Regression Toolkit**](https://www.youtube.com/watch?v=_wJgz1kx7MA&list=PLl63hsBNTd2HNq1L0z2l8ri3SHZJ6Egq5&index=30)
