@@ -27,6 +27,7 @@
 - [Session 25 - Linear Regression Tool Kit](#session25)
 - [Session 26 - Python Classes](#session26)
 - [Session 27 - Coefficients](#session27)
+- [Session 28 - Feature Engineering](#session29)
 
 ---
 
@@ -531,7 +532,7 @@ and comparing against libraries results
 ---
 
 <a id=session26></a>
-### Session 25 - Quantile Transformer.
+### Session 26 - Quantile Transformer.
 
 - summary of using Classes in Python
 -
@@ -541,9 +542,29 @@ and comparing against libraries results
 ---
 
 <a id=session27></a>
-### Session 25 - Coefficients
+### Session 27 - Coefficients
 
 - feature relationships
 
 
 :diamond_shape_with_a_dot_inside: [**Linear Regression Toolkit**](https://www.youtube.com/watch?v=_wJgz1kx7MA&list=PLl63hsBNTd2HNq1L0z2l8ri3SHZJ6Egq5&index=30)
+
+---
+
+<a id=session28></a>
+### Session 28 - Feature Engineering
+
+- Basic Feature Engineering
+- Fake Data
+- Visualization
+- Modeling withhout Feature Engineering
+- Linear
+- Polynomial Featuers
+
+
+:diamond_shape_with_a_dot_inside: [**Linear Regression Toolkit**](https://www.youtube.com/watch?v=v_E1jc48yP4)
+
+---
+
+<a id=session29></a>
+### Session 29 - Feature Engineering
